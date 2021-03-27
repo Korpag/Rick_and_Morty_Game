@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'file:///C:/FlutterProjects/rick_and_morty_contest/lib/utils/theme.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
