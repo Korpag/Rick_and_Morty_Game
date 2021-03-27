@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:rick_and_morty_contest/pages/home_page.dart';
 import 'package:rick_and_morty_contest/pages/splash_screen.dart';
-import 'file:///C:/FlutterProjects/rick_and_morty_contest/lib/utils/theme.dart';
+import 'package:rick_and_morty_contest/lib/utils/theme.dart';
 
 void main() => runApp(MyApp());
 
