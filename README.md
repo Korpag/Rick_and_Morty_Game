@@ -1,6 +1,8 @@
 # rick_and_morty_contest
 
-A new Flutter application.
+Mini Game by Rick and Morty
+
+https://github.com/Korpag/Rick_and_Morty_Game/raw/master/assets/images/homePage.gif
 
 ## Getting Started
 
