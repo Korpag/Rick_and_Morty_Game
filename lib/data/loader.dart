@@ -5,11 +5,11 @@ import 'package:rick_and_morty_contest/pages/error_page.dart';
 
 
 class Person{
-  String name;
-  String avatar;
-  String status;
-  String gender;
-  String species;
+  final String name;
+  final String avatar;
+  final String status;
+  final String gender;
+  final String species;
 }
 
 Future<List<Person>> loadPersons() async{
