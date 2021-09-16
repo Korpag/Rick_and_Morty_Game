@@ -2,7 +2,7 @@
 
 Mini Game by Rick and Morty
 
-![alt text](https://github.com/Korpag/Rick_and_Morty_Game/blob/main/assets/images/homePage.gif)
+<img src="https://github.com/Korpag/Rick_and_Morty_Game/blob/main/assets/images/homePage.gif" width="540" height="960">
 
 ## Getting Started
 
